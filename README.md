@@ -1,39 +1,82 @@
-## Hi there 👋
-# My Portfolio
+# Wassila — Portfolio
 
-My personal portfolio website showcasing my projects, skills, and experience in web development.
+> A little corner of the internet where I turn ideas into things that actually work.
 
-## Technologies
+Welcome to my portfolio repository.
+
+I'm a Computer Engineering student and web developer who enjoys building websites, experimenting with new technologies, and occasionally fighting with bugs that absolutely should not exist.
+
+## 🛠️ What I Work With
+
+**Frontend**
 
 * HTML
 * CSS
 * JavaScript
+
+**Backend**
+
 * PHP
-* MySQL
 
-## Projects
+**Database**
 
-This portfolio includes some of my web development projects and demonstrates my progress in frontend and backend development.
+* MySQL / MariaDB
 
-## About
+**Tools**
 
-I'm a Computer Engineering student interested in web development and software development.
+* Git & GitHub
+* Linux
 
-## Live Website
+## 🚀 What's Inside
 
-Coming soon.
+This repository contains the source code for my personal portfolio, including:
 
-<!--
-**wassila-abut/wassila-abut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ✦ About me
+* ✦ My skills
+* ✦ Projects I've built
+* ✦ Technologies I'm learning
+* ✦ Ways to get in touch
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm constantly building and experimenting, so this section will grow over time.
+
+Some of the projects I've worked on include:
+
+* 🛍️ E-commerce website
+* ✅ To-do application
+* 🔐 PHP authentication systems
+* 🗄️ PHP + MySQL projects
+* 🌐 Frontend web projects
+
+## 📈 Currently Learning
+
+I'm not stopping at "I know HTML and CSS."
+
+Currently expanding my skills in:
+
+* Backend development
+* Databases & SQL
+* PHP
+* Full-stack development
+* Linux & development tools
+
+## 🎯 The Goal
+
+Build things.
+
+Break things.
+
+Figure out why they broke.
+
+Fix them.
+
+Repeat.
+
+## 🌐 Portfolio
+
+**Live website:** Coming soon...
+
+---
+
+*Built with curiosity, caffeine, and an unreasonable number of browser tabs.*

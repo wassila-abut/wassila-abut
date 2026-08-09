@@ -1,4 +1,27 @@
 ## Hi there 👋
+# My Portfolio
+
+My personal portfolio website showcasing my projects, skills, and experience in web development.
+
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+## Projects
+
+This portfolio includes some of my web development projects and demonstrates my progress in frontend and backend development.
+
+## About
+
+I'm a Computer Engineering student interested in web development and software development.
+
+## Live Website
+
+Coming soon.
 
 <!--
 **wassila-abut/wassila-abut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

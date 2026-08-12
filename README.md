@@ -27,15 +27,7 @@ I'm a Computer Engineering student and web developer who enjoys building website
 * Git & GitHub
 * Linux
 
-## 🚀 What's Inside
 
-This repository contains the source code for my personal portfolio, including:
-
-* ✦ About me
-* ✦ My skills
-* ✦ Projects I've built
-* ✦ Technologies I'm learning
-* ✦ Ways to get in touch
 
 ## 📂 Projects
 
